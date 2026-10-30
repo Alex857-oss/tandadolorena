@@ -13,11 +13,14 @@ Proyecto desarrollado en **Flutter** aplicando la metodología **TDD (Test-Drive
 
 ---
 
-## Pruebas
-[!Tests aprobados](assets/tests.png)
+## 📸 Evidencias
 
-## Pantallas
-[!Pantalla principal](assets/principal.png)
-[!Pantalla resultados](assets/resultados.png)
+### Pruebas Unitarias (TDD)
+![Tests aprobados](assets/tests.png)
+
+### Pantallas de la Aplicación
+| Pantalla Principal | Pantalla Resultados / Diálogo |
+| :---: | :---: |
+| ![Pantalla principal](assets/principal.png) | ![Pantalla resultados](assets/resultados.png) |
 
 
