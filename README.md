@@ -14,10 +14,10 @@ Proyecto desarrollado en **Flutter** aplicando la metodología **TDD (Test-Drive
 ---
 
 ## Pruebas
-[](assets/tests.png)
+[!Tests aprobados](assets/tests.png)
 
 ## Pantallas
-[](assets/principal.png)
-[](assets/resultados.png)
+[!Pantalla principal](assets/principal.png)
+[!Pantalla resultados](assets/resultados.png)
 
 
